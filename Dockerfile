@@ -5,3 +5,4 @@ RUN npm install -g eslint@^7.3.0 \
     @babel/eslint-parser@^7.12.16 \
     eslint-plugin-import@^2.22.1 \
     eslint-plugin-promise@^4.1.1 \
+    ajv \
